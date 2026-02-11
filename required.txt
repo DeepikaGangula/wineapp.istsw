@@ -1,4 +1,0 @@
-stremlit
-numpy
-scikit-learn
-
