@@ -1,3 +1,4 @@
-stramlit
+streamlit
 numpy
+
 scikit-learn
